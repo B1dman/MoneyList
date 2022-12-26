@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">天宇记账</string>
+    <string name="money_type">"支出  or  收入 "</string>
+    <string name="money_type_hint">请输入记账类型</string>
+    <string name="money_money">金额数目</string>
+    <string name="money_money_hint">请输入金额数目</string>
+    <string name="money_date">时间</string>
+    <string name="money_notes_text">备注</string>
+    <string name="money_notes_hint">请输入备注</string>
+    <string name="money_method_text">用处</string>
+    <string name="money_method_hint">请输入用处</string>
+    <string name="del_money">删除</string>
+    <string name="contant_text">选择联系人</string>
+    <string name="contant_report_text">发送账单</string>
+    <string name="report_format" translatable="false">王XX于%1$s,%2$s %3$s 用于%4$s,现通知%5$s,详情请联系王XX</string>
+    <string name="new_money">新建账单</string>
+    <string name="show_subtitle">显示金额</string>
+    <string name="hide_subtitle">隐藏金额</string>
+
+
+    <string name="money_subject" translatable="false">账单通知</string>
+    <string name="send_report">发送账单</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment" translatable="false">Hello blank fragment</string>
+</resources>

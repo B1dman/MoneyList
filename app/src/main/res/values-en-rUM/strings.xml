@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">天宇记账</string>
+    <string name="money_type">in or out</string>
+    <string name="money_type_hint">please input type</string>
+    <string name="money_money">money</string>
+    <string name="money_money_hint">please input money</string>
+    <string name="money_date">time</string>
+    <string name="money_notes_text">tip</string>
+    <string name="money_notes_hint">please input tip</string>
+    <string name="money_method_text">method</string>
+    <string name="money_method_hint">please input methos</string>
+    <string name="del_money">delete</string>
+    <string name="contant_text">please choose container</string>
+    <string name="contant_report_text">"send "</string>
+    <string name="new_money">new</string>
+    <string name="show_subtitle">show</string>
+    <string name="hide_subtitle">hdie</string>
+    <string name="send_report">send</string>
+</resources>
